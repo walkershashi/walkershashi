@@ -1,4 +1,5 @@
 ### Hi there 👋
+
 <!--
 Here are some ideas to get you started:
 
@@ -8,8 +9,9 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 -->
-- 📫 How to reach me: ...
+📫 How to reach me: ...
 
 <ul>
   <li><a href = 'https://www.linkedin.com/in/shashi-kumar-soni-0b5224156/'>LinkedIn</a></li>
+  <li><a href = 'mailto:skssunny30@gmail.com'>Gmail</a></li>
 </ul>
