@@ -10,11 +10,11 @@ Here are some ideas to get you started:
 -->
 📫 Have a look at my Contibutions:
 <ul>
-  <li><a href = 'https://github.com/walkershashi/Text-Recognition'></a>Text Recognition</li>
-  <li><a href = 'https://github.com/walkershashi/WordCloud'></a>WordCloud</li>
-  <li><a href = 'https://github.com/walkershashi/FourSquare-API'></a>FourSquare Mapping</li>
-  <li><a href = 'https://github.com/walkershashi/Two-Flips'></a>Two Flips</li>
-  <li><a href = 'https://github.com/walkershashi/Profiler'></a>Resume Builder</li>
+  <li><a href = 'https://github.com/walkershashi/Text-Recognition'>Text Recognition</a></li>
+  <li><a href = 'https://github.com/walkershashi/WordCloud'>WordCloud</a></li>
+  <li><a href = 'https://github.com/walkershashi/FourSquare-API'>FourSquare Mapping</a></li>
+  <li><a href = 'https://github.com/walkershashi/Two-Flips'>Two Flips</a></li>
+  <li><a href = 'https://github.com/walkershashi/Profiler'>Resume Builder</a></li>
 </ul>
 
 💬 Get in touch with me: ...
