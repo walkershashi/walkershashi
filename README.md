@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am Shashi, a fourth year CSE student at Indian Institute of Information Technology, Ranchi.
+
+Currently working in the field of Machine Learning and Data Analytics. I am a kind of tech guy who is always looking for emerging technologies and I look forward to collaborate in all these emerging tech. If you wish to collaborate and make some new projects just ping me on any platforms down below.
+
 <!--
 Here are some ideas to get you started:
 
