@@ -1,3 +1,9 @@
+<a href = 'https://www.linkedin.com/in/shashi-kumar-soni-0b5224156/' target = '_blank'><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+<a href = 'mailto:skssunny30@gmail.com'><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a> 
+<a href = 'https://twitter.com/walkershashi' target = '_blank'><img src="https://img.icons8.com/color/48/000000/twitter.png"/></a>
+<a href = 'https://www.facebook.com/shashi.walker' target = '_blank'><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
+<a href = 'https://www.instagram.com/walkershashi/' target = '_blank'><img src="https://img.icons8.com/color/48/000000/instagram-new.png"/></a>
+
 ### Hi there 👋
 
 I am Shashi, a fourth year CSE student at Indian Institute of Information Technology, Ranchi.
@@ -11,6 +17,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
+- 💬 Get in touch with me: ...
 -->
 📫 Have a look at my Contibutions:
 <ul>
@@ -21,10 +28,12 @@ Here are some ideas to get you started:
   <li><a href = 'https://github.com/walkershashi/Profiler' target = '_blank'>Resume Builder</a></li>
 </ul>
 
-💬 Get in touch with me: ...
+👯 I’m looking to collaborate on ...
+<ul>
+  <li>Machine Learning</li>
+  <li>Data Science</li>
+  <li>Software Development</li>
+  <li>Data Analytics</li>
+</ul>
 
-<a href = 'https://www.linkedin.com/in/shashi-kumar-soni-0b5224156/' target = '_blank'><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-<a href = 'mailto:skssunny30@gmail.com'><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a> 
-<a href = 'https://twitter.com/walkershashi' target = '_blank'><img src="https://img.icons8.com/color/48/000000/twitter.png"/></a>
-<a href = 'https://www.facebook.com/shashi.walker' target = '_blank'><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
-<a href = 'https://www.instagram.com/walkershashi/' target = '_blank'><img src="https://img.icons8.com/color/48/000000/instagram-new.png"/></a>
+Take a look at my resume <a href = 'https://drive.google.com/file/d/1c_5FJDqndamz6chlP8X3RDcr0hZ0DxaF/view?usp=sharing' target = '_blank'>here</a>
