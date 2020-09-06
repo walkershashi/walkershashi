@@ -36,4 +36,23 @@ Here are some ideas to get you started:
   <li>Data Analytics</li>
 </ul>
 
+🔭 My skill set includes ...
+<ul>
+<li><h3>Web Technologies</h3></li>
+<img src="https://img.icons8.com/color/48/000000/html-5.png"/>
+<img src="https://img.icons8.com/color/48/000000/css3.png"/>
+<img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+
+<li><h3>Programming Languages</h3></li>
+<img src="https://img.icons8.com/color/48/000000/python.png"/>
+<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+<img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+<img src="https://img.icons8.com/ios-filled/50/000000/machine-learning.png"/>
+                
+<li><h3>Database Skills</h3></li>
+<img src="https://img.icons8.com/ios-filled/50/000000/sql.png"/>
+<img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
+</ul>
+
 Take a look at my resume <a href = 'https://drive.google.com/file/d/1c_5FJDqndamz6chlP8X3RDcr0hZ0DxaF/view?usp=sharing' target = '_blank'>here</a>
