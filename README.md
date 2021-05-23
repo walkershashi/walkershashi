@@ -50,9 +50,12 @@ Here are some ideas to get you started:
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
 <img src="https://img.icons8.com/ios-filled/50/000000/machine-learning.png"/>
                 
+
 <li><h3>Database Skills</h3></li>
-<img src="https://img.icons8.com/ios-filled/50/000000/sql.png"/>
-<img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
+<img src="https://img.icons8.com/ios-filled/50/000000/sql.png" title="My SQL"/>
+<img src="https://img.icons8.com/color/48/000000/postgreesql.png" title="Postgree DB"/>
+<img src="https://img.icons8.com/color/48/000000/mongodb.png" title="MongoDB"/>
+
 </ul>
 
 Take a look at my resume <a href = 'https://drive.google.com/file/d/1rsuEZZOUYSHlaHD6L986ve8A6yI3z5lm/view?usp=sharing' target = '_blank'>here</a>
