@@ -58,4 +58,4 @@ Here are some ideas to get you started:
 
 </ul>
 
-Take a look at my resume <a href = 'https://drive.google.com/file/d/1rsuEZZOUYSHlaHD6L986ve8A6yI3z5lm/view?usp=sharing' target = '_blank'>here</a>
+Take a look at my resume <a href = 'https://drive.google.com/file/d/1ZKiVhGNT4mwGjor4Bmi3QhjjiA0K8EgV/view?usp=sharing' target = '_blank'>here</a>
